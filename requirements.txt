@@ -1,0 +1,3 @@
+turicreate
+tqdm
+requests
