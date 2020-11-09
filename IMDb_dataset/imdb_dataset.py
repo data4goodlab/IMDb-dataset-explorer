@@ -7,7 +7,7 @@ from IMDb_dataset.utils import download_file
 
 
 
-class IMDbDatasets(object):
+class IMDbDataset(object):
 
     def __init__(self, verbose=False, output_path=None):
         self._rating = None
